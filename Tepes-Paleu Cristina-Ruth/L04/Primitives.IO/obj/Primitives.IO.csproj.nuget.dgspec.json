@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/muresancristina/Desktop/L04/Primitives.IO/Primitives.IO.csproj": {}
+  },
+  "projects": {
+    "/Users/muresancristina/Desktop/L04/Primitives.IO/Primitives.IO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muresancristina/Desktop/L04/Primitives.IO/Primitives.IO.csproj",
+        "projectName": "Primitives.IO",
+        "projectPath": "/Users/muresancristina/Desktop/L04/Primitives.IO/Primitives.IO.csproj",
+        "packagesPath": "/Users/muresancristina/.nuget/packages/",
+        "outputPath": "/Users/muresancristina/Desktop/L04/Primitives.IO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muresancristina/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.4.15, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "OpenTracing": {
+              "target": "Package",
+              "version": "[0.12.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

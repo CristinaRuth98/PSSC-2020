@@ -1,0 +1,2 @@
+obj/Debug/netstandard2.0/CreateProfileCmd.ef8j2cl3.generated.cs
+obj/Debug/netstandard2.0/CreateProfileResult.7iYZ5Cae.generated.cs
